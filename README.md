@@ -1,7 +1,7 @@
 PayCash integration/staging tree
 ================================
 
-http://www.paycash.org
+
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2018-2019 PayCash Developers
