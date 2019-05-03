@@ -4,22 +4,22 @@ PayCash integration/staging tree
 http://www.paycash.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 PayCash Developers
+Copyright (c) 2018-2019 PayCash Developers
 
 What is PayCash?
 ----------------
 
 PayCash is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 5 minute block targets
+ - subsidy halves in 10k blocks (~34 days)
+ - ~10 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 20 coins per block
+ - 288 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the PayCash client sofware, see http://www.paycash.org.
+the PayCash client software, website is not available for now
 
 License
 -------
@@ -45,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/paycash-project/paycash/tags) are created
+completely stable. [Tags](https://github.com/learning-crypto/paycash/tags) are created
 regularly to indicate new official, stable release versions of PayCash.
 
 Testing
