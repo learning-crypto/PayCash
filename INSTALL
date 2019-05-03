@@ -1,0 +1,9 @@
+Building PayCash
+
+See doc/readme-qt.rst for instructions on building PayCash-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PayCash.
+
+See doc/build-*.txt for instructions on building paycashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of PayCash.
